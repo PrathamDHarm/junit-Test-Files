@@ -1,0 +1,25 @@
+
+dsquid:S14817"+Remove this unused "salary" local variable.(±—Ώψÿÿÿÿ8ρ…ΎΗό1HRMINORZ
+CODE_SMELL
+ssquid:S18547":Remove this useless assignment to local variable "salary".(±—Ώψÿÿÿÿ8ρ…ΎΗό1HRMAJORZ
+CODE_SMELL
+k
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ζΖ8λυήΖό1HκRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥εψ‰ψÿÿÿÿ8λυήΖό1HηRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(…Ρ±„8λυήΖό1HλRMAJORZ
+CODE_SMELL
+Ί%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΰ¥Φ•8λυήΖό1HθRMINORZ
+CODE_SMELL
+tsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ΰ¥Φ•HβRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΈΛ8λυήΖό1HιRMAJORZ
+CODE_SMELL
+tsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ΐHγRMAJORZ
+CODE_SMELL
+Ί%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΐ8λυήΖό1HζRMINORZ
+CODE_SMELL
